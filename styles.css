@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+	background-color: blue
+}
+p {
+	color: white;
+}
+p#egg{
+	color: yellow;
+}
+p.terrence{
+	color: blue;
+
+}
